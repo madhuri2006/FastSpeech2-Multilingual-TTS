@@ -218,3 +218,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Large archives and temporary files
+*.zip
+*.7z
+*.rar
+*.tmp
+*.log
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Do not publish raw dataset audio or local caches
+raw_audio/
+mfa_corpus/

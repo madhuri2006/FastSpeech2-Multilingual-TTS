@@ -1,0 +1,29 @@
+dataset: Telugu_MMS_FA
+path:
+  corpus_path: /content/drive/MyDrive/FastSpeech2_Assignment/Telugu
+  lexicon_path: ''
+  raw_path: /content/drive/MyDrive/FastSpeech2_Assignment/Telugu/raw_audio
+  preprocessed_path: /content/drive/MyDrive/FastSpeech2_Assignment/Telugu/fs2_prepared/model_metadata
+preprocessing:
+  val_size: 0
+  text:
+    text_cleaners:
+    - basic_cleaners
+    language: te_romanized
+  audio:
+    sampling_rate: 22050
+    max_wav_value: 32768.0
+  stft:
+    filter_length: 1024
+    hop_length: 256
+    win_length: 1024
+  mel:
+    n_mel_channels: 80
+    mel_fmin: 0
+    mel_fmax: 8000
+  pitch:
+    feature: frame_level
+    normalization: true
+  energy:
+    feature: frame_level
+    normalization: true

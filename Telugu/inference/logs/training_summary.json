@@ -1,0 +1,17 @@
+{
+  "language": "Telugu",
+  "architecture": "FastSpeech 2",
+  "device": "CPU",
+  "completed_steps": 300,
+  "validation_records": 3,
+  "initial_validation_loss": 9.893165151278177,
+  "final_validation_loss": 6.9097413420677185,
+  "final_validation_components": {
+    "mel": 2.734986980756124,
+    "postnet_mel": 3.114191840092341,
+    "pitch": 0.5171841631333033,
+    "energy": 0.4133523106575012,
+    "duration": 0.13002612115815282
+  },
+  "checkpoint": "/content/drive/MyDrive/FastSpeech2_Assignment/Telugu/checkpoints/latest.pth.tar"
+}

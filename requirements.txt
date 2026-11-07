@@ -1,0 +1,15 @@
+torch
+torchaudio
+numpy
+scipy
+librosa
+soundfile
+matplotlib
+pandas
+PyYAML
+tqdm
+g2p-en
+pyworld
+uroman
+praat-parselmouth
+scikit-learn

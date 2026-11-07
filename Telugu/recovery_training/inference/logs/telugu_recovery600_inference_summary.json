@@ -1,0 +1,57 @@
+{
+  "generated_at": "2026-11-07T05:12:37.456341",
+  "model": "FastSpeech 2",
+  "checkpoint_step": 600,
+  "vocoder": "Universal HiFi-GAN",
+  "device": "cpu",
+  "sample_rate": 22050,
+  "speaker_id": 0,
+  "speaker_description": "Female speaker",
+  "sentences": [
+    {
+      "sentence": "T1",
+      "checkpoint_step": 600,
+      "input_characters": 95,
+      "mel_frames": 613,
+      "audio_seconds": 7.117,
+      "audio_file": "/content/drive/MyDrive/FastSpeech2_Assignment/Telugu/recovery_training/inference/test_generated_audios/T1_recovery600.wav",
+      "prediction_file": "/content/drive/MyDrive/FastSpeech2_Assignment/Telugu/recovery_training/inference/test_predictions/T1_recovery600_predictions.npz"
+    },
+    {
+      "sentence": "T2a",
+      "checkpoint_step": 600,
+      "input_characters": 44,
+      "mel_frames": 309,
+      "audio_seconds": 3.587,
+      "audio_file": "/content/drive/MyDrive/FastSpeech2_Assignment/Telugu/recovery_training/inference/test_generated_audios/T2a_recovery600.wav",
+      "prediction_file": "/content/drive/MyDrive/FastSpeech2_Assignment/Telugu/recovery_training/inference/test_predictions/T2a_recovery600_predictions.npz"
+    },
+    {
+      "sentence": "T2b",
+      "checkpoint_step": 600,
+      "input_characters": 49,
+      "mel_frames": 382,
+      "audio_seconds": 4.435,
+      "audio_file": "/content/drive/MyDrive/FastSpeech2_Assignment/Telugu/recovery_training/inference/test_generated_audios/T2b_recovery600.wav",
+      "prediction_file": "/content/drive/MyDrive/FastSpeech2_Assignment/Telugu/recovery_training/inference/test_predictions/T2b_recovery600_predictions.npz"
+    },
+    {
+      "sentence": "T3",
+      "checkpoint_step": 600,
+      "input_characters": 40,
+      "mel_frames": 301,
+      "audio_seconds": 3.495,
+      "audio_file": "/content/drive/MyDrive/FastSpeech2_Assignment/Telugu/recovery_training/inference/test_generated_audios/T3_recovery600.wav",
+      "prediction_file": "/content/drive/MyDrive/FastSpeech2_Assignment/Telugu/recovery_training/inference/test_predictions/T3_recovery600_predictions.npz"
+    },
+    {
+      "sentence": "T4",
+      "checkpoint_step": 600,
+      "input_characters": 167,
+      "mel_frames": 1107,
+      "audio_seconds": 12.852,
+      "audio_file": "/content/drive/MyDrive/FastSpeech2_Assignment/Telugu/recovery_training/inference/test_generated_audios/T4_recovery600.wav",
+      "prediction_file": "/content/drive/MyDrive/FastSpeech2_Assignment/Telugu/recovery_training/inference/test_predictions/T4_recovery600_predictions.npz"
+    }
+  ]
+}

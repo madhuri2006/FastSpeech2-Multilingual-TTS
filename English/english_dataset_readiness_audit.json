@@ -1,0 +1,9 @@
+{
+  "train_files": 2664,
+  "validation_files": 505,
+  "train_hours": 5.001442465277778,
+  "validation_hours": 1.0019098090277778,
+  "overlapping_ids": 0,
+  "train_empty_transcripts": 0,
+  "validation_empty_transcripts": 0
+}

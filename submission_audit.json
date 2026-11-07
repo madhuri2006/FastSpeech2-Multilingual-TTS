@@ -1,0 +1,21 @@
+{
+  "created": "2026-11-07T05:26:32.354462",
+  "project_root": "/content/drive/MyDrive/FastSpeech2_Assignment",
+  "checks": {
+    "English best checkpoint": true,
+    "English latest checkpoint": true,
+    "English training history": true,
+    "English inference summary": false,
+    "Telugu recovery checkpoint": false,
+    "Telugu recovery inference summary": true,
+    "English audio outputs": true,
+    "Telugu recovery audio outputs": true,
+    "English variance-adaptor plots": true,
+    "Telugu variance-adaptor plots": true
+  },
+  "english_audio_count": 5,
+  "telugu_recovery_audio_count": 5,
+  "english_png_count": 20,
+  "telugu_recovery_png_count": 15,
+  "telugu_training_note": "Trainable model parameters and Adam optimizer state were unchanged after step 300; BatchNorm running statistics continued changing. Cause not established."
+}

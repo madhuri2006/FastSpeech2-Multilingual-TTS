@@ -1,0 +1,187 @@
+{
+  "textgrid_count": 10,
+  "invalid_boundary_files": 0,
+  "total_nonempty_intervals": 579,
+  "reports": [
+    {
+      "file": "recording_0.TextGrid",
+      "intervals": 108,
+      "nonempty_intervals": 100,
+      "first_boundary": 0.0,
+      "last_boundary": 8.7595,
+      "invalid_boundaries": false,
+      "sample_labels": [
+        "our",
+        "district",
+        "hasana",
+        "was",
+        "the",
+        "land",
+        "of",
+        "the"
+      ]
+    },
+    {
+      "file": "recording_10.TextGrid",
+      "intervals": 55,
+      "nonempty_intervals": 45,
+      "first_boundary": 0.0,
+      "last_boundary": 5.48,
+      "invalid_boundaries": false,
+      "sample_labels": [
+        "among",
+        "the",
+        "poets",
+        "i",
+        "remember",
+        "william",
+        "wordsworth",
+        "t"
+      ]
+    },
+    {
+      "file": "recording_1001.TextGrid",
+      "intervals": 49,
+      "nonempty_intervals": 41,
+      "first_boundary": 0.0,
+      "last_boundary": 3.485438,
+      "invalid_boundaries": false,
+      "sample_labels": [
+        "their",
+        "holistic",
+        "approach",
+        "to",
+        "the",
+        "disease",
+        "of",
+        "addiction"
+      ]
+    },
+    {
+      "file": "recording_1003.TextGrid",
+      "intervals": 63,
+      "nonempty_intervals": 55,
+      "first_boundary": 0.0,
+      "last_boundary": 7.845375,
+      "invalid_boundaries": false,
+      "sample_labels": [
+        "the",
+        "book",
+        "is",
+        "really",
+        "inspiring",
+        "and",
+        "can",
+        "put"
+      ]
+    },
+    {
+      "file": "recording_1005.TextGrid",
+      "intervals": 78,
+      "nonempty_intervals": 64,
+      "first_boundary": 0.0,
+      "last_boundary": 7.7195,
+      "invalid_boundaries": false,
+      "sample_labels": [
+        "and",
+        "in",
+        "between",
+        "during",
+        "daytime",
+        "also",
+        "whenever",
+        "i"
+      ]
+    },
+    {
+      "file": "recording_1008.TextGrid",
+      "intervals": 80,
+      "nonempty_intervals": 76,
+      "first_boundary": 0.0,
+      "last_boundary": 5.251563,
+      "invalid_boundaries": false,
+      "sample_labels": [
+        "can",
+        "you",
+        "track",
+        "the",
+        "application",
+        "status",
+        "on",
+        "national"
+      ]
+    },
+    {
+      "file": "recording_101.TextGrid",
+      "intervals": 78,
+      "nonempty_intervals": 64,
+      "first_boundary": 0.0,
+      "last_boundary": 11.0,
+      "invalid_boundaries": false,
+      "sample_labels": [
+        "commonly",
+        "here",
+        "the",
+        "culture",
+        "is",
+        "followed",
+        "according",
+        "to"
+      ]
+    },
+    {
+      "file": "recording_1010.TextGrid",
+      "intervals": 40,
+      "nonempty_intervals": 32,
+      "first_boundary": 0.0,
+      "last_boundary": 4.218625,
+      "invalid_boundaries": false,
+      "sample_labels": [
+        "english",
+        "is",
+        "a",
+        "gender",
+        "neutral",
+        "language",
+        "\u026a",
+        "\u0272"
+      ]
+    },
+    {
+      "file": "recording_1012.TextGrid",
+      "intervals": 89,
+      "nonempty_intervals": 77,
+      "first_boundary": 0.0,
+      "last_boundary": 6.798687,
+      "invalid_boundaries": false,
+      "sample_labels": [
+        "please",
+        "enter",
+        "my",
+        "private",
+        "car",
+        "number",
+        "to",
+        "proceed"
+      ]
+    },
+    {
+      "file": "recording_1016.TextGrid",
+      "intervals": 27,
+      "nonempty_intervals": 25,
+      "first_boundary": 0.0,
+      "last_boundary": 2.26825,
+      "invalid_boundaries": false,
+      "sample_labels": [
+        "easily",
+        "answers",
+        "the",
+        "local",
+        "need",
+        "i\u02d0",
+        "z",
+        "\u026a"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "universal_real_training": {
+    "duration": 17.519455782312924,
+    "peak": 0.521722674369812,
+    "rms": 0.06841713190078735,
+    "finite": true,
+    "file": "/content/drive/MyDrive/FastSpeech2_Assignment/Telugu/inference/vocoder_diagnostic/universal_real_training.wav"
+  },
+  "universal_predicted_T1": {
+    "duration": 6.826666666666667,
+    "peak": 0.22149279713630676,
+    "rms": 0.054858822375535965,
+    "finite": true,
+    "file": "/content/drive/MyDrive/FastSpeech2_Assignment/Telugu/inference/vocoder_diagnostic/universal_predicted_T1.wav"
+  },
+  "ljspeech_real_training": {
+    "duration": 17.519455782312924,
+    "peak": 0.5982880592346191,
+    "rms": 0.07149839401245117,
+    "finite": true,
+    "file": "/content/drive/MyDrive/FastSpeech2_Assignment/Telugu/inference/vocoder_diagnostic/ljspeech_real_training.wav"
+  },
+  "ljspeech_predicted_T1": {
+    "duration": 6.826666666666667,
+    "peak": 0.25079190731048584,
+    "rms": 0.06258393824100494,
+    "finite": true,
+    "file": "/content/drive/MyDrive/FastSpeech2_Assignment/Telugu/inference/vocoder_diagnostic/ljspeech_predicted_T1.wav"
+  }
+}

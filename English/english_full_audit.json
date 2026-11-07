@@ -1,0 +1,27 @@
+{
+  "english_root": "/content/drive/MyDrive/FastSpeech2_Assignment/English",
+  "total_files": 6339,
+  "counts": {
+    "Audio WAV": 3170,
+    "TextGrid alignments": 0,
+    "Feature NPZ": 0,
+    "Feature NPY": 0,
+    "Checkpoints": 0,
+    "Configs": 0,
+    "Metadata": 0,
+    "Plots": 0,
+    "Generated audio": 3170,
+    "Reports": 0
+  },
+  "directories": [
+    "raw_audio",
+    "raw_audio/train",
+    "raw_audio/validation",
+    "raw_data",
+    "sample_audio_test"
+  ],
+  "textgrids": [],
+  "features_npz": [],
+  "features_npy": [],
+  "checkpoints": []
+}

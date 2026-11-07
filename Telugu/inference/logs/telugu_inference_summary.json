@@ -1,0 +1,66 @@
+{
+  "generated_at": "2026-11-04T19:11:33.694705",
+  "model": "FastSpeech 2",
+  "vocoder": "HiFi-GAN universal",
+  "device": "CPU",
+  "sample_rate": 22050,
+  "speaker_id": 0,
+  "speaker_description": "Female speaker",
+  "sentences": [
+    {
+      "sentence": "T1",
+      "input_characters": 95,
+      "mel_frames": 588,
+      "pitch_values": 588,
+      "energy_values": 588,
+      "duration_values": 95,
+      "audio_seconds": 6.827,
+      "audio_file": "/content/drive/MyDrive/FastSpeech2_Assignment/Telugu/results/test_generated_audios/T1.wav",
+      "prediction_file": "/content/drive/MyDrive/FastSpeech2_Assignment/Telugu/inference/test_predictions/T1_predictions.npz"
+    },
+    {
+      "sentence": "T2a",
+      "input_characters": 44,
+      "mel_frames": 301,
+      "pitch_values": 301,
+      "energy_values": 301,
+      "duration_values": 44,
+      "audio_seconds": 3.495,
+      "audio_file": "/content/drive/MyDrive/FastSpeech2_Assignment/Telugu/results/test_generated_audios/T2a.wav",
+      "prediction_file": "/content/drive/MyDrive/FastSpeech2_Assignment/Telugu/inference/test_predictions/T2a_predictions.npz"
+    },
+    {
+      "sentence": "T2b",
+      "input_characters": 49,
+      "mel_frames": 363,
+      "pitch_values": 363,
+      "energy_values": 363,
+      "duration_values": 49,
+      "audio_seconds": 4.214,
+      "audio_file": "/content/drive/MyDrive/FastSpeech2_Assignment/Telugu/results/test_generated_audios/T2b.wav",
+      "prediction_file": "/content/drive/MyDrive/FastSpeech2_Assignment/Telugu/inference/test_predictions/T2b_predictions.npz"
+    },
+    {
+      "sentence": "T3",
+      "input_characters": 40,
+      "mel_frames": 277,
+      "pitch_values": 277,
+      "energy_values": 277,
+      "duration_values": 40,
+      "audio_seconds": 3.216,
+      "audio_file": "/content/drive/MyDrive/FastSpeech2_Assignment/Telugu/results/test_generated_audios/T3.wav",
+      "prediction_file": "/content/drive/MyDrive/FastSpeech2_Assignment/Telugu/inference/test_predictions/T3_predictions.npz"
+    },
+    {
+      "sentence": "T4",
+      "input_characters": 167,
+      "mel_frames": 1048,
+      "pitch_values": 1048,
+      "energy_values": 1048,
+      "duration_values": 167,
+      "audio_seconds": 12.167,
+      "audio_file": "/content/drive/MyDrive/FastSpeech2_Assignment/Telugu/results/test_generated_audios/T4.wav",
+      "prediction_file": "/content/drive/MyDrive/FastSpeech2_Assignment/Telugu/inference/test_predictions/T4_predictions.npz"
+    }
+  ]
+}

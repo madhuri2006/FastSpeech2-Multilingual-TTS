@@ -1,0 +1,29 @@
+dataset: Svarah_MFA_IPA
+path:
+  corpus_path: /content/gdrive/MyDrive/FastSpeech2_Assignment/English/raw_audio
+  lexicon_path: lexicon/librispeech-lexicon.txt
+  raw_path: /content/gdrive/MyDrive/FastSpeech2_Assignment/English/raw_audio
+  preprocessed_path: /content/gdrive/MyDrive/FastSpeech2_Assignment/English/processed
+preprocessing:
+  val_size: 512
+  text:
+    language: en_ipa
+    text_cleaners: []
+    use_phonemes: true
+  audio:
+    sampling_rate: 22050
+    max_wav_value: 32768.0
+  stft:
+    filter_length: 1024
+    hop_length: 256
+    win_length: 1024
+  mel:
+    n_mel_channels: 80
+    mel_fmin: 0
+    mel_fmax: 8000
+  pitch:
+    feature: phoneme_level
+    normalization: true
+  energy:
+    feature: phoneme_level
+    normalization: true

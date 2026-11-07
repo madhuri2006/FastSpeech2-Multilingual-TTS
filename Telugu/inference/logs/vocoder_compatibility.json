@@ -1,0 +1,10 @@
+{
+  "universal": {
+    "success": false,
+    "error": "'dict' object has no attribute 'resblock_kernel_sizes'"
+  },
+  "ljspeech": {
+    "success": false,
+    "error": "'dict' object has no attribute 'resblock_kernel_sizes'"
+  }
+}
